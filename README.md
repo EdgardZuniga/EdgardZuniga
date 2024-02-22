@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hola, bienvenido a mi Perfil 😄
+
+## Sobre Mi 👨‍💻
+
+## Tecnologias 💻
+
+## Herramientas 🧰
+
+## Contacto
 
 <!--
 **EdgardZuniga/EdgardZuniga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
