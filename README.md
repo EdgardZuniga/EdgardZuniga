@@ -1,6 +1,7 @@
 # Hola, bienvenido a mi Perfil 😄
 
 ## Sobre Mi 👨‍💻
+Soy Desarrollador JR, con habilidades en HTML, CSS, jS. Actualmente aprendiendo C# .NET y SQL. Mejorando cada día más los conocimientos adquiridos para así convertirme en un buen profesional.
 
 ## Tecnologias 💻
 
